@@ -1,10 +1,9 @@
 # Instatus <> GitHub
 
-## A giant leap for status pages ✨
+### ✨ A giant leap for status pages ✨
 
 
 ```
-
      .-.
      ,o8888o, |
    ,888888888/,
@@ -15,7 +14,6 @@
    `-'
 
   © Instatus, Inc.
-
 ```
 [Changelog](https://instatus.com/changes) · [Careers](https://instatus.com/careers) · [Docs](https://instatus.com/help) · [Twitter](https://instatus.com/twitter)
 
