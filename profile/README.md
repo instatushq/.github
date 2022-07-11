@@ -1,7 +1,6 @@
 # Instatus <> GitHub
 
-### ✨ A giant leap for status pages ✨
-### 🚀 Get a quick & beautiful status page 🚀
+## A giant leap for status pages ✨
 
 
 ```
