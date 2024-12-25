@@ -1,9 +1,8 @@
 # Instatus
 
-### ✨ A giant leap for status pages ✨ [Changelog](https://instatus.com/changes) · [Careers](https://instatus.com/careers) · [Docs](https://instatus.com/help) · [Twitter](https://instatus.com/twitter)
+### ✨ Get ready for downtime ✨ [Changelog](https://instatus.com/changes) · [Careers](https://instatus.com/careers) · [Docs](https://instatus.com/help) · [X](https://instatus.com/twitter)
 
-[![Homepage](https://user-images.githubusercontent.com/1072229/178352553-8bee2426-aa20-471a-8323-eea073e89cd2.png
-)](https://instatus.com)
+[![Homepage](https://github.com/user-attachments/assets/079b9029-a5b9-4ff3-832a-0af8881d6d38)](https://instatus.com)
 
 ```
      .-.
